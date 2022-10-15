@@ -459,6 +459,7 @@ BscScan shows. This gives you the actual QDRX supply.
 Yes, QDRX has a hard cap of 750M
 
 **How QDRX supply is reduced**
+
 The team's aim is to make deflation higher than emission by building deflationary mechanisms into Quadrix App's products. 
 The goal is for more QDRX to leave circulation than the amount of QDRX that's produced.
 
